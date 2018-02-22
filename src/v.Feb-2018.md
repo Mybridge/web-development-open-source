@@ -1,0 +1,77 @@
+# Web Development Top 10 Open Source Projects for the Past Month (v.Feb 2018)
+
+<img src="feb-webdev-open-source.png" width="800" alt="Mybridge"></a>
+
+For the past month, we ranked nearly 200 Web Development Open Source Projects to pick the Top 10. 
+We compared projects with new or major release during this period. Mybridge AI ranks projects based on a variety of factors to measure its quality for professionals.
+
+* Average number of Github stars in this edition: 7,946 ⭐️
+* Topics: Image Resize, Bootstrap, Documentation, 2D Game, Icons, SVG, CSS, Charts, Web Screenshots
+
+Open source projects can be useful for programmers. Hope you find an interesting project that inspires you.
+
+<br>
+
+### Course of the month:
+
+A) Beginner: [The Complete Web Development Course - Build 15 Projects.](http://bit.ly/2osNpb5) _[11,266 recommends, 4.5/5 stars]_
+
+
+<br>
+
+## Rank 1
+### [Caire: Content aware image resize library [★7498]](https://github.com/esimov/caire?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 2
+### [Design-blocks: A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites. [★9843]](https://github.com/froala/design-blocks?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 3
+### [Docusaurus: Easy to maintain open source documentation websites. [★6427]](https://github.com/facebook/Docusaurus?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 4
+### [Phaser: A fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering [v.2.1] [★19018]](https://github.com/photonstorm/phaser?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 5
+### [SuperTinyIcons: Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos [★6698]](https://github.com/edent/SuperTinyIcons?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 6
+### [Workerize: run a module in a web worker. [★2576]](https://github.com/developit/workerize?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 7
+### [Css-gridish: Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension. [★1855]](https://github.com/ibm/css-gridish?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 8
+### [ECharts: A powerful charting and visualization library for browse [v.4.0] [★25370]](https://github.com/ecomfe/echarts?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 9
+### [Webshot-factory: Web Screenshots at scale based on headless chrome [★210]](https://github.com/ashubham/webshot-factory?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 10
+### [Zam: A component based micro-library that encourages single-page applications [★148]](https://github.com/roecrew/zam?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
